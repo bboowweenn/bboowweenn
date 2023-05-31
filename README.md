@@ -1,7 +1,9 @@
-### Hi there 👋. I'm Bowen Zhen
+### Hey there! 👋 I'm Bowen Zhen
 
-- 🔭 I’m currently studing "Master of Science in Applied Data Science" at University of Southern California
-- 🌱 I’m interested in frontend development, data science and machine learning
-- 👯 I’m looking for full-time SWE jobs
-- 📫 How to reach me: bowenzhen@outlook.com
+🎓 Just Graduated!: Fresh out of the University of Southern California with a Master's in Applied Data Science.
+💻 Tech Wizard: Proficient in programming languages like Java, Kotlin, and Python, and well-versed in web development with the MERN stack (MongoDB, Express, React, Node.js). Plus, I'm AWS Certified!
+🚀 On the Hunt: Actively seeking exciting full-time Software Engineer roles. Ready to bring my skills to a team near you!
+💌 Let's Connect: Got an opportunity? Just want to chat? Drop me a line at bowen.b.zhen@gmail.com.
+
+Thanks for swinging by! Can't wait to connect with you!
 
